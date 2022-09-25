@@ -1,4 +1,4 @@
-![](https://github.com/seazabuky/seazabuky/blob/main/banner.png)
+![](https://github.com/LunarArtemis/LunarArtemis/blob/main/banner.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&show_icons=true&theme=tokyonight)
 
