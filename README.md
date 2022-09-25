@@ -1,4 +1,6 @@
-![](https://github.com/LunarArtemis/LunarArtemis/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/LunarArtemis/LunarArtemis/blob/main/banner.png">
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&show_icons=true&theme=tokyonight)
 
