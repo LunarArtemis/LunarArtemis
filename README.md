@@ -28,6 +28,9 @@
   <a href="mailto:poonyakiat.thanomsap@gmail.com">
     <img align="left"  width="26px" src="https://github.com/LunarArtemis/LunarArtemis/blob/main/asset/Gmail.svg" />
   </a>
+  <a href="https://www.instagram.com/tle.artemiz">
+    <img align="left" width="26px" src="https://github.com/LunarArtemis/LunarArtemis/blob/main/asset/Instagram.svg" />
+  </a>
 
 <br><br><br><br>
 
