@@ -14,11 +14,12 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarArtemis&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarArtemis&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,php,arduino,unity,c#)](https://skillicons.dev)
+<br>
 <br>
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width = "70px">
