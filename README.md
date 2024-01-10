@@ -1,12 +1,34 @@
-<p align="center">
-  <img src="https://github.com/LunarArtemis/LunarArtemis/blob/main/banner.png">
+# Poonyakiat Thanomsap&nbsp; <img src="https://github.com/LunarArtemis/LunarArtemis/blob/main/asset/Siuuuuu!!!.gif" width="40px">
+
+### Hello&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
+
+<p>
+  <em>
+    I am a 3rd Year undergraduate from <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
+    <b>A passionate self-learner</b>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><b>Passionate</b>
+    and seeking an empowering <b>platform</b> for <b>growth.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+  </em>  
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarArtemis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LunarArtemis&repo=Buky-The-Adventure&theme=tokyonight&show_owner=true)](https://github.com/LunarArtemis/Buky-The-Adventure)
+<br>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LunarArtemis&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarArtemis&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br>
+
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width = "70px">
+  <a href="https://www.linkedin.com/in/poonyakiat-thanomsap-9436221a9/">
+    <img align="left" width="24px" src="https://github.com/LunarArtemis/LunarArtemis/blob/main/asset/Linkedin.svg" />
+  </a>
+  <a href="mailto:poonyakiat.thanomsap@gmail.com">
+    <img align="left"  width="26px" src="https://github.com/LunarArtemis/LunarArtemis/blob/main/asset/Gmail.svg" />
+  </a>
+
+<br><br><br><br>
+
+**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
