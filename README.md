@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    <img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
+    <img hight="300" width="400" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
     I am a 3rd Year undergraduate from <a href="https://www.swu.ac.th/"> <b>Srinakharinwirot University</b>, Bangkok</a>. <br>
     <b>A passionate self-learner</b>  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><b>Passionate</b>
     and seeking an empowering <b>platform</b> for <b>growth.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
